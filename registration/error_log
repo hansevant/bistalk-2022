@@ -1,0 +1,1 @@
+[31-May-2022 00:50:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/bemfikti/public_html/bistalk2022/koneksi.php on line 17
